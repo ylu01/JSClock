@@ -1,24 +1,24 @@
-# clock
+# JS-clock
+
+a Clock app that displays your local time.
+Uses javascript, written into a Vue component.
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+please install the required dependencies first:
+npm install
+or
+yarn install
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
-```
 
-### Lints and fixes files
+then
+npm run serve
+or
+yarn run serve
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
